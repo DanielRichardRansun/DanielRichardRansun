@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f6466,100:0f172a&height=160&text=Hi,%20I'm%20Daniel%20Ransun&fontSize=48&fontColor=e5f6f8&fontAlignY=45&animation=twinkling&desc=Full-stack%20Web%20&%20App%20Developer&descSize=22&descAlignY=75&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f6466,100:0f172a&height=160&text=Hi,%20I'm%20Daniel%20Ransun&fontSize=48&fontColor=e5f6f8&fontAlignY=45&animation=twinkling&desc=Full-stack%20Web%20and%20App%20Developer&descSize=22&descAlignY=75&section=header" />
  
 I'm Daniel Ransun, a Professional Web Developer & Technology Specialist with experience in front-end and back-end development, CMS platforms, and mobile applications. Skilled in developing and maintaining websites for both local and international clients or companies, with a strong foundation in technology, content development, copywriting, and AI-driven solutions. Passionate about learning new technologies, adapting to challenges, and delivering effective problem-solving, supported by solid English communication skills.
 
