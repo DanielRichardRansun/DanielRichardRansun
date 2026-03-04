@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f6466,100:0f172a&height=180&text=Hi,%20I%27m%20Daniel%20Richard%20Ransun&fontSize=36&fontColor=e5f6f8&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%26%20CMS%20Web%20Developer&descSize=18&descAlignY=55&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f6466,100:0f172a&height=180&text=Hi,%20I%27m%20Daniel%20Richard%20Ransun&fontSize=36&fontColor=e5f6f8&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20and%20CMS%20Web%20Developer&descSize=18&descAlignY=55&section=header" width="100%" />
 
 <br/>
 <a href="https://www.linkedin.com/in/daniel-richard-ransun-991216272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,11 +14,11 @@
 
 ### 👨‍💻 A Bit About Me
 
-I'm a Full Stack Web Developer dedicated to building highly functional, user-centric, and impactful digital solutions. I enjoy bridging the gap between sleek interfaces and robust backend architecture to solve real-world problems.
+**Full-Stack Web Developer** focused on building functional, user-centric web applications. I love solving problems through code and optimizing digital environments for growth.
 
-- 🚀 Currently building the **ICIA App** and developing web solutions for **Krya Global**.
+- 🚀 Currently developing web solutions for **Krya Global**.
 - 💡 Passionate about **Laravel**, **React / Next.js**, **WordPress**, and exploring **UI/UX Design**.
-- 🌍 Focused on crafting applications that provide seamless and scalable experiences for global users.
+- 🌍 Focused on crafting websites and applications that provide seamless and scalable experiences for global users.
 
 ---
 
