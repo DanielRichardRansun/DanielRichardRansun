@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f6466,100:0f172a&height=230&text=Hi,%20I'm%20Daniel%20Richard%20Ransun&fontSize=42&fontColor=e5f6f8&fontAlignY=40&animation=twinkling&desc=Full-stack%20Web%20and%20App%20Developer&descSize=20&descAlignY=62&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f6466,100:0f172a&height=230&text=Hi,%20I'm%20Daniel%20Richard%20Ransun&fontSize=42&fontColor=e5f6f8&fontAlignY=40&animation=twinkling&desc=Full-stack%20Developer%20&%20CMS%20Developer&descSize=20&descAlignY=62&section=header" width="100%" />
 
 <br/>
 <a href="https://www.linkedin.com/in/daniel-richard-ransun-991216272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -34,6 +34,6 @@ I'm a Full Stack Web Developer dedicated to building highly functional, user-cen
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f6466,100:0f172a&height=100&section=footer" />
 
 </div>
