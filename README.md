@@ -17,7 +17,9 @@
 **Full-Stack Web Developer** focused on building functional, user-centric web applications. I love solving problems through code and optimizing digital environments for growth.
 
 🚀 Currently developing scalable web solutions for **Krya Global**.
+
 💡 Passionate about **Laravel**, **React / Next.js**, and **WordPress**, with experience in **UI/UX Design** and **Infrastructure Setup**.
+
 🌍 Focused on crafting websites and applications that provide seamless and scalable experiences for global users.
 
 ---
